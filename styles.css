@@ -1,1 +1,47 @@
 
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:#333333;
+    background-color: #faffff;
+    background-image: url(images/noise\ layer.jpg);
+    text-align: center;
+ }
+
+ header > .images {
+    border:5px;
+     solid #ffffff; 
+     padding:5px; 
+     margin:5px;
+ }
+
+ h1, h3 {
+    color:darkcyan;
+ }
+
+p {
+    color: #333333;
+    font-size: 18px;
+    line-height: 1.4px;
+}
+
+h1 {
+    font-size: 38px;
+    font-weight: bold;
+    letter-spacing: 4px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    color: #333333;
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 22px;
+}
+
+.logo {
+    text-align: center;
+    background-color: #ffffff;
+    padding-bottom: 20px;
+}
