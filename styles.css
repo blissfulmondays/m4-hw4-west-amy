@@ -5,6 +5,10 @@ body {
     background-color: #faffff;
     background-image: url(images/noise\ layer.jpg);
     text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+    margin-bottom: 2%;
  }
 
  header > .images {
@@ -37,7 +41,10 @@ h2 {
 }
 
 h3 {
-    font-size: 22px;
+    font-size: 28px;
+    background-color: #c8dfde;
+    line-height: 200px;
+   
 }
 
 .logo {
