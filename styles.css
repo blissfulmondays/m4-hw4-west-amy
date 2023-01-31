@@ -11,10 +11,10 @@ body {
     margin-bottom: 2%;
  }
 
- header > .images {
-    border:5px;
+ h3 > .images {
+     border:50px;
      border-color: #ffffff; 
-     padding:5px; 
+     padding:15px; 
      margin:5px;
  }
 
@@ -26,6 +26,7 @@ p {
     color: #333333;
     font-size: 18px;
     line-height: 25px;
+    
 }
 
 h1 {
@@ -33,12 +34,14 @@ h1 {
     font-weight: bold;
     letter-spacing: 4px;
     font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 15px;
+    padding-top: 30px;
 }
-
 
 h2 {
     color: #333333;
     font-size: 30px;
+    line-height: 150px;
 }
 
 h3 {
@@ -58,4 +61,17 @@ p {
     text-align: justify;
     margin-left: 20%;
     margin-right: 20%;
+    padding: 5px;
+}
+
+header {
+    text-align:center;
+}
+
+footer {
+    padding: 80px;
+}
+
+div {
+    padding: 35px;
 }
