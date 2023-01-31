@@ -13,7 +13,7 @@ body {
 
  header > .images {
     border:5px;
-     solid #ffffff; 
+     solid: #ffffff; 
      padding:5px; 
      margin:5px;
  }
