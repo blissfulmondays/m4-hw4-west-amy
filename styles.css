@@ -58,7 +58,6 @@ p {
     text-align: justify;
     margin-left: 20%;
     margin-right: 20%;
-    padding: 5px;
 }
 
 header {
@@ -69,6 +68,3 @@ footer {
     padding: 80px;
 }
 
-div {
-    padding: 35px;
-}
